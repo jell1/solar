@@ -1,0 +1,73 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #F7F7F3;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+nav {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	background-color: #F7F7F3;
+	height: 60px;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	color: #13AB4A;
+	font-family: Impact, Charcoal, sans-serif;
+	padding: 10px 4px;
+	font-size: 15px;
+}
+
+nav a {
+	text-decoration: none;
+}
+
+nav a:visited {
+	color: #13AB4A;
+}
+
+.heroimg {
+	background-image: url('solar1.jpg');
+	background-size: cover;
+	height: 420px;
+	padding: 1px;
+
+}
+
+.available {
+	background-color: #f1b113;
+	text-align: center;
+	height: 50px;
+	padding-top: 30px;
+}
+
+.hero {
+	margin: 0;
+	padding: 0;
+	margin: 80px 180px;
+}
+
+h1 {
+	color: #13AB4A;
+}
+
+h2 {
+	color: #f1b113;
+}
+
+form {
+	padding-top: 20px;
+	text-align: center;
+}
+
+span {
+	color: red;
+}
